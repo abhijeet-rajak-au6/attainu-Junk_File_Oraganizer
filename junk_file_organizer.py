@@ -28,7 +28,7 @@ def main():
 
     2) eg. file_organizer.py organize [Path] -- keyword Size
 
-    3) eg. file_organizer.py organize-by-ext [Path] -- keyword Date
+    3) eg. file_organizer.py organize_by_ext [Path] -- keyword Date
     """
     pass
 
